@@ -81,7 +81,7 @@ export function Navbar() {
                 <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-purple-600 via-blue-600 to-cyan-600 p-0.5">
                   <div className="w-full h-full rounded-lg bg-[#0a0a0f] flex items-center justify-center">
                     <span className="text-xl bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
-                      AT
+                      AS
                     </span>
                   </div>
                 </div>
